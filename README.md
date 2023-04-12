@@ -1,4 +1,10 @@
-# Apply Stochastic Processes in Finance
+# Quantitative Finance Projects
+
+Contents:
+1. Stochastic Process
+2. C++ and Financial Engineering
+
+## 1. Apply Stochastic Processes in Finance
 
 Topics include:
 
