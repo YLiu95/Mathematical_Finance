@@ -42,4 +42,9 @@ Suppose a stock's initial price is $100, and the stock follows a Brownian motion
 
 
 # Cpp and Financial Engineering
+
 Run C++ in Jupyter Notebook and apply C++ to financial engineering
+
+C++ key concepts: data encapsulation, class inheritance, polymorphism, operator overloading, memory management, namespaces, exception handling.
+
+Applications to financial engineering: binomial method, Black-Scholes model for option pricing
