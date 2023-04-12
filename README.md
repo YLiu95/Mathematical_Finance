@@ -1,10 +1,15 @@
-# Quantitative Finance Projects
+Quantitative Finance Projects
+=============================
+
 
 Contents:
-1. Stochastic Process
-2. C++ and Financial Engineering
 
-## 1. Apply Stochastic Processes in Finance
+[1. Apply Stochastic Processes in Finance](#apply-stochastic-processes-in-finance)
+
+
+[2. C++ and Financial Engineering](#cpp-and-financial-engineering)
+
+# Apply Stochastic Processes in Finance
 
 Topics include:
 
@@ -34,3 +39,7 @@ Plot the evolution of the gold price and the average gold price over the 1000 da
 Suppose a stock's initial price is $100, and the stock follows a Brownian motion with a drift of 0.01 and a standard deviation of 0.1. Simulate the stock price over 1000 time steps using Python code.
 
 ![download](https://user-images.githubusercontent.com/82934216/229547896-eef340ac-d5a0-458e-88e1-7f0d40429d2f.png)
+
+
+# Cpp and Financial Engineering
+Run C++ in Jupyter Notebook and apply C++ to financial engineering
