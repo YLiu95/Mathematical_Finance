@@ -1,13 +1,12 @@
 Quantitative Finance Projects
 =============================
 
-
-Contents:
+Table of contents:
 
 [1. Apply Stochastic Processes in Finance](#apply-stochastic-processes-in-finance)
 
-
 [2. C++ and Financial Engineering](#cpp-and-financial-engineering)
+
 
 # Apply Stochastic Processes in Finance
 
