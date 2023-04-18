@@ -7,6 +7,8 @@ Table of contents:
 
 [2. C++ and Financial Engineering](#cpp-and-financial-engineering)
 
+[3. Alpha, systemic trading, machine learning](#alpha-systemic-trading-machine-learning)
+
 
 # Apply Stochastic Processes in Finance
 
@@ -78,3 +80,45 @@ Run C++ in Jupyter Notebook and apply C++ to financial engineering
 ✓ binomial method for option pricing
 
 ✓ Black-Scholes model for option pricing
+
+
+
+# Alpha systemic trading machine learning
+
+Apply machine learning to systematic trading and identify Alpha factors.
+
+## Highlights:
+
+*	Developed an Alpha-generating strategy for trading AAPL stock using a set of 5 Alpha factors constructed.
+
+*	Conducted out-of-sample backtesting of the long-short trading strategy to ensure profitability and robustness.
+
+*	Achieved an annualised return of 11%, a Sharpe ratio of 5.5, a Jensen’s alpha of 11%, and an Alpha of 8.55%.
+
+## Backtest result:
+
+Total return: 24.64%
+
+Annualized return: 10.52%
+
+Maximum drawdown: -37.16%
+
+Tracking error: 0.0263
+
+Information ratio: 0.0072
+
+Sharpe ratio: 5.5300
+
+Sortino ratio: 8.7710
+
+Treynor ratio: 8.2008
+
+Jensen's alpha: 10.51%
+
+Beta: 0.0128
+
+Alpha: 8.55%
+
+## Visualise the backtest result:
+
+![download](https://user-images.githubusercontent.com/82934216/232747987-b5ab081c-0044-4b0f-acab-9927994b3a1b.png)
