@@ -95,6 +95,14 @@ Apply machine learning to systematic trading and identify Alpha factors.
 
 *	Achieved an annualised return of 11%, a Sharpe ratio of 5.5, a Jensen’s alpha of 11%, and an Alpha of 8.55%.
 
+## Methodology:
+
+1. Construsct Alpha factors to generate trading signals.
+
+2. Identify the most relevant Alpha factors using statistical and machine learning methods.
+
+3. Backtest the strategy using out of sample data to ensure it is profitable and robust.
+
 ## Backtest result:
 
 Total return: 24.64%
