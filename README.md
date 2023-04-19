@@ -7,7 +7,7 @@ Table of contents:
 
 [2. C++ and Financial Engineering](#cpp-and-financial-engineering)
 
-[3. Alpha, Systemic Trading, Machine Learning](#alpha-systemic-trading-machine-learning)
+[3. Alpha, Systemic Trading, Statistical Analysis, Machine Learning](#alpha-systemic-trading-machine-learning)
 
 
 # Apply Stochastic Processes in Finance
