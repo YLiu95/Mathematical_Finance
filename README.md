@@ -1,4 +1,4 @@
-Quantitative Finance Projects
+Quantitative Finance Assignments and Projects
 =============================
 
 Table of contents:
