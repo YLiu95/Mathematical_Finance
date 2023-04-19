@@ -77,9 +77,21 @@ Run C++ in Jupyter Notebook and apply C++ to financial engineering
 
 ## Applications to financial engineering: 
 
-✓ binomial method for option pricing
+### 1. Option pricing with C++:
 
-✓ Black-Scholes model for option pricing
+✓ Binomial tree method
+
+✓ Black-Scholes model
+
+✓ Monte Carlo simulation method
+
+### 2. Swap pricing with C++:
+
+✓ Vanilla interest rate swap
+
+✓ Currency swap
+
+✓ Credit default swap
 
 
 
